@@ -10,10 +10,13 @@ h1 {
 	padding:10px;
 }
 img {
-	display:block;
+	display:inline-block;
 	padding-top: 20px;
+	padding-left: 10px;
 }
 #wrapper {
-	width: 800px;
+	width: 580px;
 	padding-left: 20px;
+	background-color: black;
+	color:white;
 }
