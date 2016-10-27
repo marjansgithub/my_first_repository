@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: verdana;
+	
+}
+h1 {
+	padding:10px;
+}
+img {
+	display:block;
+	padding-top: 20px;
+}
+#wrapper {
+	width: 800px;
+	padding-left: 20px;
+}
